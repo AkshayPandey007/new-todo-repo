@@ -1,3 +1,9 @@
-.addTask {
-  /* Sample */
+.add{
+  width: 75%;
+  height: 35px;
+  font-weight: bolder;
+  padding: 10px;
 }
+
+
+

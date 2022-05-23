@@ -1,7 +1,11 @@
-.tasks {
-  /* sample */
+
+
+.task {
+  /* Sample  */
+  display: flex;
 }
 
-.empty {
-  /* sample */
+
+.strike{
+  text-decoration: line-through;
 }

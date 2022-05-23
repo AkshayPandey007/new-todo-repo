@@ -1,3 +1,9 @@
 .task {
   /* Sample  */
+  display: flex;
+}
+
+
+.strike{
+  text-decoration: line-through;
 }

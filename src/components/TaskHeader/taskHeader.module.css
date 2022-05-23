@@ -1,3 +1,12 @@
 .taskHeader {
   /* Sample */
+  width: 100%;
+  border: 1px solid black;
+  height: 120px;
+  background-color: #55bea7;
+}
+
+.todo{
+text-align: center;
+color: white;
 }
